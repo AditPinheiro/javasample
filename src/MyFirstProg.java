@@ -7,5 +7,6 @@ public class MyFirstProg {
 
         System.out.println("Hahaha");
         System.out.println("Its Funny");
+        System.out.println("Lol");
     }
 }
